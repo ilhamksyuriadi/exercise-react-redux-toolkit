@@ -1,0 +1,5 @@
+.page-user {
+    background-color: rgb(65, 179, 65);
+    display: grid;
+    place-items: center;
+}

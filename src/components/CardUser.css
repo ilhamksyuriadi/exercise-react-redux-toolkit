@@ -1,0 +1,8 @@
+.card-user {
+    background-color: rgb(127, 250, 250);
+    width: 200px;
+    height: 100px;
+    margin: 24px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 4px gray;
+}

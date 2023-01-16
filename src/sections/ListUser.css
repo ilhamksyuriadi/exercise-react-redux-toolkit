@@ -1,0 +1,8 @@
+.list-user {
+    padding: 2px;
+    background-color: rgb(231, 170, 56);
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    width: 500px;
+}
